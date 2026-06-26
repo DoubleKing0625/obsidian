@@ -1,0 +1,7 @@
+.codex/
+.claude/
+.DS_Store
+
+# Obsidian 本机界面状态，自动生成，无需版本控制
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
